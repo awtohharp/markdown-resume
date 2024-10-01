@@ -1,119 +1,114 @@
 ---
-title: "Harper Atkins Resume"
-author: "Harper Atkins"
-description-meta: "Resume of Harper Atkins, a product analyst and technical content marketer with experience in IT solutions and marketing."
-keywords: "Harper Atkins, Product Analyst, Technical Content Marketer, IT Assistant, Court Clerk, Campaign Manager, Communications Specialist"
-subject: "Resume"
 margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
+title: "Harper Atkins Resume"
+description-meta: "Resume for Harper Atkins, Product Analyst with extensive experience in IT, content marketing, and campaign management."
+keywords: "Harper Atkins, Product Analyst, IT Assistant, Technical Content Marketer, Court Clerk, Campaign Manager"
+author: "Harper Atkins"
+subject: "Resume"
 ---
 
 # Harper Atkins
+**Email:** harpereatkins@gmail.com  
+**Phone:** (208) 867-1708  
+**Location:** Portland, OR
 
-- **Email:** harpereatkins@gmail.com  
-- **Phone:** (208) 867-1708  
-- **Location:** Portland, OR
+## Skills
+- **Product Analysis:** User story development, requirements definition, roadmap prioritization
+- **Technical Skills:** SQL, Pendo, Microsoft Excel, VBA, WordPress, SEMRush, Microsoft Teams
+- **Content Marketing:** Web copy, SEO, online articles, user research, website heat maps
+- **IT Support:** PC troubleshooting, peripheral setup, Microsoft Teams development
+- **Project Management:** Workflow design, stakeholder communication, report creation
 
----
+## Experience
 
-## Employment
+### Product Analyst (Contract)
+**PwC Digital** – Portland, OR  
+_July 2022 – June 2023_
 
-### PwC Digital (Contract) - Portland, OR  
-**Product Analyst**  
-*July 2022 - June 2023*
+- Collaborated with product teams, internal stakeholders, and executives to write user stories, define requirements, and prioritize a global risk assessment platform for data privacy.
+- Designed and implemented workflows for regulatory source monitoring, reducing manual processes by 80%.
+- Owned internal communications including sprint/release notes and IT help desk creation in Teams to manage bugs and provide workarounds.
+- Analyzed user behavior using SQL and Pendo to support data-driven feature development.
 
-- Collaborated with the Product team, stakeholders, and executives to write user stories, define requirements, and prioritize a roadmap for a global risk assessment platform focused on data privacy.
-- Designed and implemented new workflows for a regulatory source monitoring process.
-- Developed a solution to ingest web page monitoring data into a spreadsheet, automating manual processes and reducing source review time by 80%.
-- Managed internal communications with stakeholders and SMEs, created sprint/release notes, and set up an IT help desk in Teams to address user-identified bugs.
-- Created reports using SQL and Pendo to analyze user behavior and support data-driven feature development.
+### IT Assistant (Temp)
+**Central District Health** – Boise, ID  
+_Sept 2021 – July 2022_
 
----
+- Developed a Microsoft Teams solution for grants/contracts management, eliminating thousands of annual paper prints.
+- Resolved technical issues with PCs, printers, scanners, and peripherals, while providing training and documentation for end-users.
 
-### Central District Health (Temp) - Boise, ID  
-**IT Assistant**  
-*Sept 2021 - July 2022*
+### Owner / Technical Content Marketer
+**Broken Wheel Creative** – Boise, ID & Portland, OR  
+_2017 – July 2022_
 
-- Designed and developed a Microsoft Teams-based solution for grants, contracts, and agreement management, projected to eliminate tens of thousands of paper prints annually.
-- Troubleshot and resolved issues with PCs, printers, specialty scanners, projectors, and peripherals.
-- Created video and text-based documentation, conducting in-person training sessions with stakeholders.
+- Led the redesign of Diggio.com, crafting web copy and layouts for 19 pages.
+- Authored industry-leading articles for QRFS.com, tripling traffic to over 1.3M sessions annually.
+- Conducted market/user research using SEMRush, Google Analytics, and heat maps.
+- Built WordPress-based websites and virtual classrooms.
 
----
+### Court Clerk II
+**Ada County** – Boise, ID  
+_Aug 2015 – July 2016_
 
-### Broken Wheel Creative - Boise & Portland  
-**Owner/Technical Content Marketer**  
-*2017 - July 2022*
+- Automated financial and record-keeping tasks using Microsoft Excel and VBA macros, recovering over $40,000 in erroneous fines and fees.
 
-- Led the overhaul of Diggio.com, developing web copy and layouts for 19 pages targeted at various markets (laypeople, IT administrators, MSPs, resellers).
-- Authored articles establishing QRFS.com as an industry-leading resource for fire protection, tripling traffic to over 1.3M sessions annually and increasing visits to sales pages by 50%.
-- Conducted market and user research using SEMRush, heat maps, and Google Analytics.
-- Built WordPress-based websites and a virtual classroom.
+### Campaign Manager
+**Jake Ellis for Idaho** – Boise, ID  
+_March 2015 – July 2015_
 
----
+- Directed campaign field operations and developed fundraising strategies using Microsoft Excel and NGP VAN, raising $50,000.
+- Oversaw production of marketing materials, including website development.
 
-### Ada County - Boise, ID  
-**Court Clerk II**  
-*Aug 2015 - July 2016*
+### Assistant
+**Idaho State Representative Mat Erpelding** – Boise, ID  
+_Dec 2014 – March 2015_
 
-- Automated financial and record-keeping processes using Microsoft Excel and VBA macros.
-- Identified and corrected over $40,000 in erroneous fines and fees caused by a court software overhaul.
+- Researched and drafted 12 bills, collaborating with SMEs on issues such as terminal illness treatments and rural educator incentives.
+- Wrote newsletters, speeches, and PSAs for the Representative.
 
----
+### Able-Bodied Seafarer (Deck)
+**Seafarers' International Union** – Piney Point, MD  
+_2013 – 2014_
 
-### Jake Ellis for Idaho - Boise, ID  
-**Campaign Manager**  
-*Mar 2015 - Jul 2015*
+- Certified by the Coast Guard as a watch-stander, helmsman, and deck laborer. Duties included ship maintenance, steering, and standing watch.
 
-- Planned and executed campaign field operations, using Excel and NGP VAN to identify a viable fundraising market and develop a canvassing plan.
-- Managed the production of marketing materials, including the candidate’s website.
-- Helped raise nearly $50,000 for a first-time candidate.
+### Communications Specialist
+**Idaho AFL-CIO** – Boise, ID  
+_2013_
 
----
-
-### Idaho State Representative Mat Erpelding - Boise, ID  
-**Assistant**  
-*Dec 2014 - Mar 2015*
-
-- Researched and drafted 12 bills in collaboration with subject matter experts, leading to expanded treatments for the terminally ill and incentives for rural educators.
-- Wrote newsletters, speeches, and scripts for public service announcements.
-
----
-
-### Seafarers’ International Union - Piney Point, MD  
-**Able-Bodied Seafarer (Deck)**  
-*2013 - 2014*
-
-- Earned Coast Guard certification as a watch-stander, helmsman, and day laborer in the American merchant fleet.
-- Performed ship maintenance, anchoring, steering, and watch duties.
-
----
-
-### Idaho AFL-CIO - Boise, ID  
-**Communications Specialist**  
-*2013*
-
-- Managed communications with media and membership through phone calls, press releases, and photography.
-
----
+- Managed media and membership communications through phone calls, pressers, and photography.
 
 ## Education
 
 ### A+ Certification  
 **CompTIA**  
-*2022*  
-The gold standard for information technology specialists.
+_2022_
 
-### Able-Bodied Seafarer Deck Certification  
+### Able-Bodied Seafarer (Deck)  
 **Coast Guard**  
-*2015*
+_2015_
 
 ### Bachelor of Arts (Interdisciplinary)  
-**Fairhaven College, Western Washington University**  
-*2008 - 2012*
-
----
+**Fairhaven College – Western Washington University**  
+_2008 – 2012_
 
 ## Projects
 
+### Anew  
+_In Progress_  
+- SQL-based application to assist transgender individuals and expectant parents in exploring names.
+
+### Looking Glass  
+_2020_  
+- Co-developed and marketed a virtual reality horror game, released on the world’s largest video game marketplace.
+
+### Retrograde  
+_2018_  
+- Co-created a game ranked 9th in innovation during a 72-hour game development competition (out of 1,000 entries).
+
+### Labor/Prison Labor Ethnography  
+_2013_  
+- Presented post-graduate research on prison labor at a Fairhaven College conference on mass incarceration.
