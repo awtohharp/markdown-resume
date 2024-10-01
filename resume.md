@@ -3,12 +3,16 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: "Harper Atkins Resume"
 description-meta: "Resume for Harper Atkins, Product Analyst with extensive experience in IT, content marketing, and campaign management."
 keywords: "Harper Atkins, Product Analyst, IT Assistant, Technical Content Marketer, Court Clerk, Campaign Manager"
 author: "Harper Atkins"
 subject: "Resume"
 ---
+
+###### [ harpereatkins@gmail.com ] . [ (208) 867-1708 ] . [ Portland, OR ]
+
+### I am a versatile analyst, marketer, and power user, and marketer with experience streamlining workflows and helping people learn through accessible training and content.
+
 
 # Harper Atkins
 **Email:** harpereatkins@gmail.com  
